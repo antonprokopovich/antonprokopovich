@@ -1,4 +1,4 @@
-#### My CV: [Anton Prokopovich.pdf](https://antonprokopovich.github.io/CV/)
+#### Мое резюме: [Anton Prokopovich.pdf](https://antonprokopovich.github.io/CV/)
 
 <!--
 **antonprokopovich/antonprokopovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
